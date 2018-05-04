@@ -1,3 +1,5 @@
+**Important!!! Do not use an account with more XEL in it than what you are willing to lose. While I think this is bug free, I cannot guarantee it!**
+
 If you want to create a whole bunch of fees on the network in order to make it more attractive to run a POS staking node,
 just clone this repository and do
 
@@ -5,8 +7,6 @@ just clone this repository and do
 git clone https://github.com/OrdinaryDude/pos_incentivizer
 cd pos_incentivizer
 ```
-
-**Important!!! Do not use an account with more XEL in it than what you are willing to lose. While I think this is bug free, I cannot guarantee it!**
 
 Then edit ```pos.js``` to add a passphrase to an account with a few XEL in it. Also configure the node's ip address and the fees you are willing to spend:
 
