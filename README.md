@@ -27,3 +27,5 @@ node pos.js
 
 Evey block, it will generate a transaction to yourself spending ```send_how_much_fee``` fees (in the example above, 0.2 XEL).
 This might incentivize people to run a few POS nodes.
+
+Important, do not use an account with more XEL that you are willing to lose. While I think this is bug free, I cannot guarantee it.
