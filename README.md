@@ -6,6 +6,7 @@ just clone this repository and do
 ```bash
 git clone https://github.com/OrdinaryDude/pos_incentivizer
 cd pos_incentivizer
+npm install
 ```
 
 Then edit ```pos.js``` to add a passphrase to an account with a few XEL in it. Also configure the node's ip address and the fees you are willing to spend:
