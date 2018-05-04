@@ -9,7 +9,7 @@ cd pos_incentivizer
 npm install
 ```
 
-Then edit ```pos.js``` to add a passphrase to an account with a few XEL in it. Also configure the node's ip address and the fees you are willing to spend:
+Then edit ```pos.js``` to add a passphrase to an account with a few XEL in it. Also configure the node's ip address and the fees you are willing to spend. Don't be afraid of using a remote node: all signing is done locally and your passphrase should never leave your computer.
 
 ```javascript
 // ONLY EDIT THIS: BEGIN
