@@ -1,0 +1,18 @@
+{
+  "name": "pos_incentivizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "big-integer": "^1.6.28",
+    "http": "0.0.0",
+    "node-color-log": "^2.0.2",
+    "nxtjs": "^0.1.1",
+    "querystring": "^0.2.0"
+  }
+}
