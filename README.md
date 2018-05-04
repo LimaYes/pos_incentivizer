@@ -1,5 +1,7 @@
 **Important!!! Do not use an account with more XEL in it than what you are willing to lose. While I think this is bug free, I cannot guarantee it!**
 
+Before you start, make sure you have nodeJS installed.
+
 If you want to create a whole bunch of fees on the network in order to make it more attractive to run a POS staking node,
 just clone this repository and do
 
